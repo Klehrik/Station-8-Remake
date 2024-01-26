@@ -16,7 +16,7 @@ I can't actually build the binaries for this since the compression is at 20150 (
 
 ### Controls
 
-Arrows - Movement; up and down to aim weapon; double-tap to Dash (with upgrade)
-Z/C - Fire weapon
-X/V - Jump
-Enter - Open pause menu
+Arrows - Movement; up and down to aim weapon; double-tap to Dash (with upgrade)  
+Z/C - Fire weapon  
+X/V - Jump  
+Enter - Open pause menu  
