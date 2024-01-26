@@ -35,8 +35,8 @@ function _init()
 
     -- DEBUG
     poke(0x5f2d, 1)
-    menuitem(2, "kill active boss", function() if (activeBoss) activeBoss.hp = 0 end)
-    menuitem(3, "reload map", function() init_world() end)
+    --menuitem(2, "kill active boss", function() if (activeBoss) activeBoss.hp = 0 end)
+    --menuitem(3, "reload map", function() init_world() end)
     menuitem(4, "erase save", function() for i = 0, 10 do poke(0x5e00 + i, 0) end run() end)
 end
 
