@@ -10,6 +10,8 @@ It was meant to fix a lot of the gripes I had with the original, as well as expa
 
 Most of the game is actually done (with 3 bosses out of 4 bosses complete), however after wrestling with the cart limitations for so long I finally hit a brick wall in terms of compression (which as I found out too late, was *way* over); I had decided to use pancelor's [bigmap](https://www.lexaloffle.com/bbs/?tid=46225) from the beginning in order to double the maximum map size of PICO-8, and I didn't really feel like rewriting a lot to accomodate another solution, hence the shelving of this project.
 
+I can't actually build the binaries for this since the compression is at 20150 (out of 15616), so it is only playable by downloading the source and running it from a PICO-8 console.
+
 ---
 
 ### Controls
