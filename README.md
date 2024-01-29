@@ -13,6 +13,7 @@ I also experimented with a component system in order to reuse code a lot more an
 
 I can't actually build the binaries for this since the compression is at 20150 (out of 15616), so it is only playable by downloading the source and running it from a PICO-8 console.
 
+---
 
 EDIT Jan 28: Currently in the middle of restarting this in Godot.
 
